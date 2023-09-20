@@ -5,7 +5,7 @@ import { BsTelephoneOutbound } from 'react-icons/bs';
 
 const InformationCard = () => {
     return (
-        <div className='md:flex gap-8 justify-center items-center'> 
+        <div className='md:flex gap-8 space-y-8 md:space-y-0 justify-center items-center px-10 md:px-0 '> 
             <div className='p-14 bg-[#07332F] text-white flex justify-center gap-4 rounded-xl'>
                     <div className='text-4xl' ><AiOutlineClockCircle/></div>
                     <div>

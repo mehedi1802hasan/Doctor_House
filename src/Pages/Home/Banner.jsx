@@ -6,8 +6,8 @@ const Banner = () => {
     };
 
     return (
-        <div className="bg-cover bg-center h-[700px] " style={bannerStyle}>
-            <div className="md:flex items-center justify-evenly md:px-[230px] h-[700px] text-white">
+        <div className="bg-cover bg-center h-full  " style={bannerStyle}>
+            <div className="md:flex items-center justify-center gap-1   text-white py-20 px-6 md:px-0">
                 <div>
                     <h4 className='text-6xl font-medium'>Your Best Medical <br /> Help Center</h4>
                     <p className='my-7'>Lorem Ipsum is simply dummy text they are printing typesetting  <br />has been the industry’s stardard.</p>

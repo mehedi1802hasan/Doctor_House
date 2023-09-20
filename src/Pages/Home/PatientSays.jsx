@@ -19,7 +19,7 @@ const PatientSays = () => {
                     Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inve ntore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
                 </p>
             </div>
-            <div className='mt-12 w-[60%] mx-auto border rounded shadow-sm p-6'>
+            <div className='mt-12 w-[90%] mx-auto  rounded  p-6'>
             <Swiper
                 slidesPerView={1}
                 spaceBetween={30}

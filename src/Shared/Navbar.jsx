@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom';
 
 const Navbar = () => {
     return (
-        <div className="">
-            <div className="navbar fixed mx-auto bg-[#07332F] z-10 bg-opacity-50 text-white flex flex-col xl:flex-row gap-2 items-center justify-center md:justify-between px-4 xl:px-[140px] 2xl:px-[230px] py-4">
+        <div className="  ">
+            <div className="navbar fixed bg-[#07332F]  z-10 bg-opacity-60 text-white  xl:flex-row gap-2 items-center justify-center md:justify-between  px-3  md:px-20">
                 <div className="navbar-start">
                     <div className="dropdown">
                         <label tabIndex={0} className="btn btn-ghost lg:hidden">
